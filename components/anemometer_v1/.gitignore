@@ -1,12 +1,8 @@
 # Folder
-.cache
 .vscode
-bakcup/
 build/
 managed_components/
 bakcup/
 
 # File
 dependencies.lock
-sdkconfig
-sdkconfig.old
